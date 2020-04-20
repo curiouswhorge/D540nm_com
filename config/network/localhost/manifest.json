@@ -1,9 +1,9 @@
 {
-    "year": "2377",
+    "year": "2020",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Tester",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "DGt",
     "defaultUser": {
         "userId": "user",
         "password": "",
