@@ -1,8 +1,8 @@
 {
     "year": "2020",
     "serverAddress": "localhost",
-    "serverName": "Delta Green Division Prototype",
-    "iconName": "e7f8d004271d1d1f5a48a27dea831b08.png",
+    "serverName": "Delta Green Division [Prototype]",
+    "iconName": "dgpt.png",
     "terminalID": "DGt",
     "defaultUser": {
         "userId": "user",
