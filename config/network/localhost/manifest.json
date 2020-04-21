@@ -1,15 +1,15 @@
 {
     "year": "2020",
     "serverAddress": "localhost",
-    "serverName": "Tester",
-    "iconName": "Moon-icon.png",
+    "serverName": "Federal Bureau of Investigation: Delta Green Division Prototype",
+    "iconName": "fbi.png",
     "terminalID": "DGt",
     "defaultUser": {
         "userId": "user",
         "password": "",
         "userName": "anonymous"
     },
-    "randomSeed": true,
+    "randomSeed": false,
     
     "latestKernel": true
 }
