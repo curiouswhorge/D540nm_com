@@ -1,7 +1,7 @@
 {
     "year": "2020",
     "serverAddress": "localhost",
-    "serverName": "Delta Green: Covert Operations Unit [c.o.u.]",
+    "serverName": "Delta Green Program {Covert Operations Unit}",
     "iconName": "dgpt.png",
     "terminalID": "DGt",
     "defaultUser": {
