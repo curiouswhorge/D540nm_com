@@ -1,9 +1,9 @@
 {
     "year": "2020",
     "serverAddress": "localhost",
-    "serverName": "Delta Green Program {Covert Operations Unit}",
+    "serverName": "Delta Green Program",
     "iconName": "dgpt.png",
-    "terminalID": "DGt",
+    "terminalID": "∆G",
     "defaultUser": {
         "userId": "user",
         "password": "",
