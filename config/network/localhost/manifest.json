@@ -1,7 +1,7 @@
 {
     "year": "2020",
     "serverAddress": "localhost",
-    "serverName": "Delta Green Comm Terminal",
+    "serverName": "Delta Green Communication Terminal",
     "iconName": "dgpt.png",
     "terminalID": "∆G",
     "defaultUser": {
