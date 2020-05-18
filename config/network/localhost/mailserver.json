@@ -1,9 +1,9 @@
 [
     {
-        "from": "Traveller",
-        "to": ["8A73B5", "a"],
-        "title": "Do not Open",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "from": "Delta Green Head of Operations",
+        "to": ["SANMAN", "SCYLLA"],
+        "title": "Distribution of Classified Information",
+        "body": "Delta Green functions as a covert program under the direction of the US government. Any and all information obtained during your involvement with the program is considered classified. No mention of the program or your role within it should be made to anyone but your handler. You are prohibited from establishing personal relations with other members of your cell and are to use ONLY the Delta Green assigned codenames. Consider this your only warning." 
     },
     {
         "from": "Software",
