@@ -1,6 +1,6 @@
 {
     "year": "2020",
-    "serverAddress": "Communication Terminal",
+    "serverAddress": "localhost",
     "serverName": "Delta Green Program",
     "iconName": "dgpt.png",
     "terminalID": "∆G",
